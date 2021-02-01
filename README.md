@@ -11,8 +11,8 @@ git add .
 git commit -m "Veiktas izmainas!"
 ​git push origin main
 
-git config user.name "Zerlogg"
-git config user.email "emilsstrelis360@gmail.com"
+git config user.name "Emīls Strēlis"
+git config user.email "emilstrelis@inbox.lv"
 
 ...
 
